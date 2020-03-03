@@ -1,2 +1,3 @@
 This is the first file.
+I've changed it in the first branch.
 This is from the second branch.
